@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  align-items: left;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.nav-link {
+  float: left;
+  list-style-type: none;
+  margin: 0px;
+  padding: 10px;
+}
+
+
+.navbar-ul  {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.navLink{
+ color: purple;
+}
+
+
+

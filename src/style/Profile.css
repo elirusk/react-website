@@ -1,0 +1,17 @@
+div {
+  background-color: black;
+  padding: 0px;
+  text-align: left;
+  color: white;
+}
+
+.title {
+  font-size:70px;
+  margin: 0px;
+}
+
+.logo {
+  float:left;
+  height:153px;
+
+}
